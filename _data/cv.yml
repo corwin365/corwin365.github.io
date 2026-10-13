@@ -9,7 +9,87 @@ cv:
   social_networks:
     - network: ORCID
       username: "0000-0003-2496-953X"
+    - network: GitHub# Concise public-facing CV for al-folio's standard RenderCV layout.
+# Do not add embargoed material to this public repository, even as comments.
+cv:
+  name: Corwin Wright
+  headline: Professor of Atmospheric Remote Sensing
+  location: Bath, United Kingdom
+  email: c.wright@bath.ac.uk
+  social_networks:
+    - network: ORCID
+      username: "0000-0003-2496-953X"
     - network: GitHub
+      username: corwin365
+
+  sections:
+    Experience:
+      - company: University of Bath
+        position: Professor of Atmospheric Remote Sensing
+        start_date: "2023"
+        end_date: present
+        summary: Research on atmospheric gravity waves, satellite remote sensing, and middle-atmosphere dynamics.
+        highlights:
+          - Co-Leader, SPARC Gravity Waves Activity (2022–present).
+
+      - company: University of Bath
+        position: Director of Research, Electronic and Electrical Engineering
+        start_date: "2025"
+        end_date: "2026"
+
+      - company: University of Bath
+        position: Founding Co-Director, Centre for Climate Adaptation and Environmental Research
+        start_date: "2022"
+        end_date: "2026"
+
+      - company: University of Bath
+        position: Royal Society University Research Fellow
+        start_date: "2017"
+        end_date: "2026"
+
+      - company: University of Bath
+        position: Research Officer, Research Fellow and Senior Research Fellow
+        start_date: "2013"
+        end_date: "2023"
+        summary: Research Officer (2013–2017); Research Fellow (2017–2019); Senior Research Fellow (2019–2023).
+
+      - company: National Center for Atmospheric Research
+        position: Contract Researcher
+        location: Boulder, Colorado, USA
+        start_date: "2012"
+        end_date: "2013"
+
+      - company: Université de Bretagne Occidentale
+        position: Postdoctoral Researcher
+        location: Brest, France
+        start_date: "2011"
+        end_date: "2012"
+
+      - company: National Center for Atmospheric Research
+        position: Postgraduate Scientist
+        location: Boulder, Colorado, USA
+        start_date: "2010"
+        end_date: "2011"
+
+    Education:
+      - institution: University of Oxford
+        area: Atmospheric Physics
+        degree: DPhil
+        start_date: "2006"
+        end_date: "2010"
+
+      - institution: University of St Andrews and Heriot-Watt University
+        area: Photonics and Optoelectronic Devices
+        degree: MSc
+        start_date: "2005"
+        end_date: "2006"
+
+      - institution: Durham University
+        area: Physics
+        degree: MSci
+        start_date: "2001"
+        end_date: "2005"
+
       username: corwin365
 
   sections:
