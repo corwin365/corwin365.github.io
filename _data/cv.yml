@@ -44,12 +44,12 @@ cv:
       highlights:
       - 'Dissertation: Atmospheric Turbulence Measurements Using SLODAR.'
     Experience:
-    - company: University of Bath
-      position: Turing AI Pioneer Interdisciplinary Fellow
-      location: Bath, United Kingdom
-      start_date: 2026
-      summary: UKRI fellowship leading the GW-LIFT research programme on gravity wave latent inference.
-    - company: University of Bath
+   # - company: University of Bath
+   #   position: Turing AI Pioneer Interdisciplinary Fellow
+   #   location: Bath, United Kingdom
+   #   start_date: 2026
+   #   summary: UKRI fellowship leading the GW-LIFT research programme on gravity wave latent inference.
+   # - company: University of Bath
       position: Professor of Atmospheric Remote Sensing
       location: Bath, United Kingdom
       start_date: 2023
