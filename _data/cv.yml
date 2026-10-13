@@ -9,16 +9,6 @@ cv:
   social_networks:
     - network: ORCID
       username: "0000-0003-2496-953X"
-    - network: GitHub# Concise public-facing CV for al-folio's standard RenderCV layout.
-# Do not add embargoed material to this public repository, even as comments.
-cv:
-  name: Corwin Wright
-  headline: Professor of Atmospheric Remote Sensing
-  location: Bath, United Kingdom
-  email: c.wright@bath.ac.uk
-  social_networks:
-    - network: ORCID
-      username: "0000-0003-2496-953X"
     - network: GitHub
       username: corwin365
 
