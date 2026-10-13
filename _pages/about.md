@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Professor of Atmospheric Remote Sensing at the University of Bath, where I lead research into the dynamics of the Earth's atmosphere, particularly atmospheric gravity waves and their role in weather, climate and the circulation of the middle atmosphere.
+I am <a href="https://researchportal.bath.ac.uk/en/persons/corwin-wright/">Professor of Atmospheric Remote Sensing at the University of Bath</a>, where I lead research into the dynamics of the Earth's atmosphere, particularly atmospheric gravity waves and their role in weather, climate and the circulation of the middle atmosphere.
 
 My research combines satellite observations, numerical modelling and data analysis to understand atmospheric processes across a wide range of spatial and temporal scales. I am particularly interested in developing new methods to extract information from satellite measurements, and in using these observations to improve our understanding of atmospheric dynamics and the performance of numerical models.
 
@@ -32,8 +32,3 @@ I have worked at Bath since 2013, following research positions at the National C
 
 Alongside my research, I co-lead the international <a href="https://aparc-climate.org/activities/gravity-waves/">APARC Gravity Waves Activity</a> and contribute to several international satellite missions (including <a href="https://atmos.uw.edu/strive/">NASA-STRIVE</a> and <a href="https://www.esa.int/ESA_Multimedia/Images/2026/06/Keystone">ESA Keystone</a>) and atmospheric science programmes. I also supervise doctoral researchers, teach atmospheric and space science, and have previously served as Director of Research in Bath's Department of Electronic and Electrical Engineering and as founding Co-Director of its Centre for Climate Adaptation and Environment Research.
 
-<!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
