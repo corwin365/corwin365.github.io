@@ -303,13 +303,13 @@ cv:
       url: https://doi.org/10.1002/2015GL067233
       summary: Profiled by NASA in Sensing Our Planet.
     Projects:
-    - name: GW-LIFT — A Gravity Wave Latent Inference Framework for climaTe
-      start_date: 2026
-      end_date: 2029
-      summary: UKRI Turing AI Pioneer Interdisciplinary Fellowship.
-      highlights:
-      - Principal Investigator / Fellow.
-      - 'Award value: £1.986m full economic cost.'
+   # - name: GW-LIFT — A Gravity Wave Latent Inference Framework for climaTe
+   #   start_date: 2026
+   #   end_date: 2029
+   #   summary: UKRI Turing AI Pioneer Interdisciplinary Fellowship.
+   #   highlights:
+   #   - Principal Investigator / Fellow.
+   #   - 'Award value: £1.986m full economic cost.'
     - name: Seeing the Unseen
       start_date: 2026
       end_date: 2030
