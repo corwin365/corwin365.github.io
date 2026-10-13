@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A selected list of my papers. For a full list see my full CV.
+description: A selected list of my papers. For a complete list see my full CV.
 nav: true
 nav_order: 2
 ---
