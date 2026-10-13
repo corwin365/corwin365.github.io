@@ -115,12 +115,12 @@ cv:
       position: Mission Advisory Group Member
       start_date: 2024
     Awards:
-    - title: UKRI Turing AI Pioneer Interdisciplinary Fellowship
-      authors:
-      - UK Research and Innovation
-      date: 2026
-      awarder: UK Research and Innovation
-      summary: Competitively awarded fellowship supporting the GW-LIFT research programme (2026–2029).
+   # - title: UKRI Turing AI Pioneer Interdisciplinary Fellowship
+   #   authors:
+   #   - UK Research and Innovation
+   #   date: 2026
+   #   awarder: UK Research and Innovation
+   #   summary: Competitively awarded fellowship supporting the GW-LIFT research programme (2026–2029).
     - title: Royal Society University Research Fellowship
       authors:
       - The Royal Society
