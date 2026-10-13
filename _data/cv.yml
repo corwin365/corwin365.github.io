@@ -1,362 +1,189 @@
-# Selected public-facing academic CV for the al-folio RenderCV template.
-# Place this file at _data/cv.yml in the website repository.
-# Sources: supplied academic CV (October 2026); no private home address or telephone.
 cv:
-  name: Corwin Wright
-  label: Professor of Atmospheric Remote Sensing
-  email: c.wright@bath.ac.uk
-  location: Bath, United Kingdom
-  image: ''
-  summary: Atmospheric physicist at the University of Bath investigating atmospheric gravity waves, middle-atmosphere
-    dynamics and coupling through the atmosphere. Research combines satellite remote sensing, high-resolution numerical
-    modelling and machine learning to study atmospheric variability and its representation in weather and climate
-    models.
+  name: Albert Einstein
+  label: Scientist
+  email: einstein@example.com
+  location: Princeton, NJ
+  image: ""
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+
   social_networks:
-  - network: GitHub
-    username: corwin365
-  - network: ORCID
-    username: 0000-0003-2496-953X
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
+    - network: LinkedIn
+      username: example
+
+  address:
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
+
   sections:
     Education:
-    - institution: University of Oxford
-      location: Oxford, United Kingdom
-      area: Atmospheric Physics
-      studyType: DPhil
-      start_date: 2006
-      end_date: 2010
-      highlights:
-      - 'Thesis: Detection of Stratospheric Gravity Waves Using HIRDLS Data.'
-    - institution: University of St Andrews and Heriot-Watt University
-      location: Scotland, United Kingdom
-      area: Photonics and Optoelectronic Devices
-      studyType: MSc
-      start_date: 2005
-      end_date: 2006
-      highlights:
-      - Industrial placement at CST Global Semiconductors, Glasgow.
-      - 'Dissertation: Characterisation of 1310nm Semiconductor Laser Diodes.'
-    - institution: Durham University
-      location: Durham, United Kingdom
-      area: Physics
-      studyType: MSci
-      start_date: 2001
-      end_date: 2005
-      highlights:
-      - 'Dissertation: Atmospheric Turbulence Measurements Using SLODAR.'
+      - institution: University of Zurich
+        location: Zurich, Switzerland
+        url: https://www.uzh.ch/
+        area: Physics
+        studyType: PhD
+        start_date: 1900
+        end_date: 1905
+        score: ""
+        courses: "Theory of Relativity"
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - institution: Eidgenössische Technische Hochschule
+        location: Zurich, Switzerland
+        area: Physics
+        studyType: Federal teaching diploma
+        start_date: 1896
+        end_date: 1900
+        highlights:
+          - Description 1.
+          - Description 2.
+
     Experience:
-   # - company: University of Bath
-   #   position: Turing AI Pioneer Interdisciplinary Fellow
-   #   location: Bath, United Kingdom
-   #   start_date: 2026
-   #   summary: UKRI fellowship leading the GW-LIFT research programme on gravity wave latent inference.
-   # - company: University of Bath
-      position: Professor of Atmospheric Remote Sensing
-      location: Bath, United Kingdom
-      start_date: 2023
-      highlights:
-      - Research in atmospheric gravity waves, satellite observations, atmospheric dynamics and model evaluation.
-      - Supervision of externally funded postdoctoral researchers and postgraduate students.
-      - Co-leader of the international SPARC Gravity Waves Activity (since 2022).
-    - company: University of Bath
-      position: Director of Research, Electronic and Electrical Engineering
-      location: Bath, United Kingdom
-      start_date: 2025
-      end_date: 2026
-    - company: University of Bath
-      position: Founding Co-Director, Centre for Climate Adaptation and Environmental Research
-      location: Bath, United Kingdom
-      start_date: 2022
-      end_date: 2026
-    - company: University of Bath
-      position: Royal Society University Research Fellow
-      location: Bath, United Kingdom
-      start_date: 2017
-      end_date: 2026
-      summary: Independent research fellowship examining gravity waves and their role in global atmospheric circulation.
-    - company: University of Bath
-      position: Research Officer; Research Fellow; Senior Research Fellow
-      location: Bath, United Kingdom
-      start_date: 2013
-      end_date: 2023
-      highlights:
-      - Research Officer (2013–2017), Research Fellow (2017–2019) and Senior Research Fellow (2019–2023).
-    - company: National Center for Atmospheric Research
-      position: Contract Researcher
-      location: Boulder, Colorado, USA
-      start_date: 2012
-      end_date: 2013
-    - company: Université de Bretagne Occidentale
-      position: Postdoctoral Researcher
-      location: Brest, France
-      start_date: 2011
-      end_date: 2012
-    - company: National Center for Atmospheric Research
-      position: Postgraduate Scientist
-      location: Boulder, Colorado, USA
-      start_date: 2010
-      end_date: 2011
-    Scientific Leadership:
-    - company: SPARC Gravity Waves Activity
-      position: Co-Leader
-      start_date: 2022
-      summary: International coordination of research on atmospheric gravity waves.
-    - company: International Space Science Institute
-      position: Team Leader, Synthetic Gravity Wave Analyses
-      start_date: 2022
-      end_date: 2025
-    - company: Royal Society Research Fellows’ Network
-      position: Chair
-      start_date: 2019
-      end_date: 2022
-    - company: NASA Earth System Explorer STRIVE
-      position: Science Team Member
-      start_date: 2025
-    - company: ESA Keystone Candidate Mission
-      position: Mission Advisory Group Member
-      start_date: 2024
+      - company: Institute for Advanced Study, Princeton University
+        position: Professor of Theoretical Physics
+        location: Princeton University, NJ
+        start_date: 1933
+        end_date: 1955
+        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        highlights:
+          - Relativity
+          - Description 2.
+
+      - company: California Institute of Technology
+        position: Visiting Professor
+        location: Pasadena, California, US
+        start_date: 1933
+        end_date: 1933
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - company: Kaiser Wilhelm Institute for Physics
+        position: Director
+        location: Berlin, Germany
+        start_date: 1917
+        end_date: 1933
+
+      - company: Karl-Ferdinand University
+        position: Professor of Theoretical Physics
+        location: Prague, Czechoslovakia
+        start_date: 1911
+        end_date: 1917
+
+      - company: University of Zurich
+        position: Associate Professor of Theoretical Physics
+        location: Zurich, Switzerland
+        start_date: 1909
+        end_date: 1911
+
+    Volunteer:
+      - company: People's Climate March
+        position: Lead Organizer
+        location: Zurich, Switzerland
+        start_date: 2014-04-01
+        end_date: 2015-07-01
+        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        highlights:
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
+
     Awards:
-   # - title: UKRI Turing AI Pioneer Interdisciplinary Fellowship
-   #   authors:
-   #   - UK Research and Innovation
-   #   date: 2026
-   #   awarder: UK Research and Innovation
-   #   summary: Competitively awarded fellowship supporting the GW-LIFT research programme (2026–2029).
-    - title: Royal Society University Research Fellowship
-      authors:
-      - The Royal Society
-      date: 2017
-      awarder: The Royal Society
-      summary: Independent research fellowship held at the University of Bath (2017–2026).
-    - title: Team Research Culture Award
-      authors:
-      - University of Bath, Faculty of Engineering
-      date: 2024
-      awarder: University of Bath, Faculty of Engineering
-      summary: Winner of the faculty team award for research culture.
+      - title: Nobel Prize in Physics
+        authors:
+          - "Royal Swedish Academy of Sciences"
+        date: 1921-11-01
+        awarder: Royal Swedish Academy of Sciences
+        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+
+      - title: Max Planck Medal
+        authors:
+          - "German Physical Society"
+        date: 2029
+        awarder: German Physical Society
+        summary: Awarded for outstanding scientific achievement
+
     Publications:
-    - title: Stratospheric gravity waves in three high-resolution models & AIRS satellite observations
-      authors:
-      - P. E. Noble
-      - H. Okui
-      - M. J. Alexander
-      - M. Ern
-      - N. P. Hindley
-      - L. Hoffmann
-      - L. Holt
-      - A. van Niekerk
-      - R. Plougonven
-      - I. Polichtchouk
-      - C. C. Stephan
-      - M. Bramberger
-      - M. Corcos
-      - W. Putnam
-      - C. Kruse
-      - C. J. Wright
-      publisher: Atmospheric Chemistry and Physics
-      releaseDate: 2026
-      url: https://doi.org/10.5194/acp-26-7607-2026
-      summary: Selected as an EGU Highlight Article.
-    - title: The influence of climate variability on transatlantic flight times
-      authors:
-      - C. J. Wright
-      - P. E. Noble
-      - T. P. Banyard
-      - S. J. Freeman
-      - P. D. Williams
-      publisher: Atmospheric Chemistry and Physics
-      releaseDate: 2025
-      url: https://doi.org/10.5194/acp-25-18267-2025
-      summary: Research on the relationship between atmospheric variability and transatlantic aviation.
-    - title: A Convolutional Neural Network for the Detection of Gravity Waves in Satellite Observations and Numerical
-        Simulations
-      authors:
-      - H. Okui
-      - C. J. Wright
-      - P. G. Berthelemy
-      - N. P. Hindley
-      - L. Hoffmann
-      - A. P. Barnes
-      publisher: Geophysical Research Letters
-      releaseDate: 2025
-      url: https://doi.org/10.1029/2025GL115683
-    - title: 'Mechanisms Linking Stratospheric Gravity Wave Activity to Hurricane Intensification: Insights from
-        Hurricane Joaquin'
-      authors:
-      - X. Wu
-      - L. Hoffmann
-      - C. J. Wright
-      - N. P. Hindley
-      - M. J. Alexander
-      - X. Wang
-      - B. Chen
-      - Y. Wang
-      - D. Lyu
-      - M. Li
-      publisher: Geophysical Research Letters
-      releaseDate: 2025
-      url: https://doi.org/10.1029/2024GL113531
-    - title: A Novel Identification Method for Stratospheric Gravity Waves in Nadir Viewing Satellite Observations
-      authors:
-      - P. G. Berthelemy
-      - C. J. Wright
-      - N. P. Hindley
-      - P. E. Noble
-      - L. Hoffmann
-      publisher: Atmospheric Chemistry and Physics
-      releaseDate: 2025
-      url: https://doi.org/10.5194/acp-25-17595-2025
-    - title: Exploring sources of gravity waves in the southern winter stratosphere through ray-tracing 3-D satellite
-        observations
-      authors:
-      - P. E. Noble
-      - S. Rhodes
-      - N. P. Hindley
-      - P. Berthelemy
-      - T. Moffat-Griffin
-      - P. Preusse
-      - L. Hoffmann
-      - C. J. Wright
-      publisher: 'Journal of Geophysical Research: Atmospheres'
-      releaseDate: 2024
-      url: https://doi.org/10.1029/2024JD041294
-      summary: Selected by NASA as an AIRS Mission Highlight.
-    - title: Comparing Gravity Waves in a Kilometre-Scale Run of the ECMWF IFS to AIRS Satellite Observations and
-        ERA5
-      authors:
-      - E. J. Lear
-      - C. J. Wright
-      - N. P. Hindley
-      - I. Polichtchouk
-      - L. Hoffmann
-      publisher: 'Journal of Geophysical Research: Atmospheres'
-      releaseDate: 2024
-      url: https://doi.org/10.1029/2023JD040097
-    - title: 'Atmospheric Gravity Waves: Processes and Parameterization'
-      authors:
-      - U. Achatz
-      - M. J. Alexander
-      - E. Becker
-      - H. Y. Chun
-      - A. Dörnbrack
-      - L. A. Holt
-      - R. Plougonven
-      - I. Polichtchouk
-      - K. Sato
-      - A. Sheshadri
-      - C. C. Stephan
-      - A. van Niekerk
-      - C. J. Wright
-      publisher: Journal of the Atmospheric Sciences
-      releaseDate: 2024
-      url: https://doi.org/10.1175/JAS-D-23-0210.1
-    - title: Surface-to-space atmospheric waves from Hunga Tonga-Hunga Ha’apai eruption
-      authors:
-      - C. J. Wright
-      - N. P. Hindley
-      - M. J. Alexander
-      - M. Barlow
-      - L. Hoffmann
-      - C. N. Mitchell
-      - F. Prata
-      - M. Bouillon
-      - J. A. Carstens
-      - C. Clerbaux
-      - S. M. Osprey
-      - N. Powell
-      - C. E. Randall
-      - J. Yue
-      publisher: Nature
-      releaseDate: 2022
-      url: https://doi.org/10.1038/s41586-022-05012-5
-      summary: Satellite and other observations of atmospheric waves generated by the Hunga Tonga eruption.
-    - title: Atmospheric Gravity Waves in Aeolus Wind Lidar Observations
-      authors:
-      - T. P. Banyard
-      - C. J. Wright
-      - N. P. Hindley
-      - G. Halloran
-      - I. Krisch
-      - B. Kaifler
-      - L. Hoffmann
-      publisher: Geophysical Research Letters
-      releaseDate: 2021
-      url: https://doi.org/10.1029/2021GL092756
-    - title: 'Exploring gravity wave characteristics in 3-D using a novel S-transform technique: AIRS/Aqua measurements
-        over the Southern Andes and Drake Passage'
-      authors:
-      - C. J. Wright
-      - N. P. Hindley
-      - L. Hoffmann
-      - M. J. Alexander
-      - N. J. Mitchell
-      publisher: Atmospheric Chemistry and Physics
-      releaseDate: 2017
-      url: https://doi.org/10.5194/acp-17-8553-2017
-      summary: Selected as an EGU Highlight Article.
-    - title: Combining AIRS and MLS Observations for Three-Dimensional Gravity Wave Measurement
-      authors:
-      - C. J. Wright
-      - N. P. Hindley
-      - N. J. Mitchell
-      publisher: Geophysical Research Letters
-      releaseDate: 2016
-      url: https://doi.org/10.1002/2015GL067233
-      summary: Profiled by NASA in Sensing Our Planet.
-    Projects:
-   # - name: GW-LIFT — A Gravity Wave Latent Inference Framework for climaTe
-   #   start_date: 2026
-   #   end_date: 2029
-   #   summary: UKRI Turing AI Pioneer Interdisciplinary Fellowship.
-   #   highlights:
-   #   - Principal Investigator / Fellow.
-   #   - 'Award value: £1.986m full economic cost.'
-    - name: Seeing the Unseen
-      start_date: 2026
-      end_date: 2030
-      summary: The Leverhulme Trust Research Project Grant.
-      highlights:
-      - Principal Investigator.
-      - 'Award value: £422k.'
-    - name: STRAT-NAV — Stratospheric Navigation and Gravity Wave Soaring for Enduring Atmospheric Platforms
-      start_date: 2026
-      end_date: 2029
-      summary: Advanced Research and Innovation Agency, Enduring Atmospheric Platforms programme.
-      highlights:
-      - Co-Investigator.
-      - 'Project award: £1.752m; £175k allocated to the Bath research group.'
-    - name: TEAMx-FLOW — Flow Dynamics, Scale Interactions and Mountain Waves for TEAMx-UK
-      start_date: 2024
-      end_date: 2027
-      summary: Natural Environment Research Council Directed Programme.
-      highlights:
-      - Co-Investigator.
-      - 'Project award: £586k full economic cost.'
-    - name: DRIIVE — Drivers and Impacts of Ionospheric Variability with EISCAT-3D
-      start_date: 2022
-      end_date: 2027
-      summary: Natural Environment Research Council Highlight Topic.
-      highlights:
-      - Co-Investigator.
-      - 'Project award: £2.523m full economic cost.'
-    - name: MesoS2D — Mesospheric sub-seasonal to decadal predictability
-      start_date: 2021
-      end_date: 2026
-      summary: Natural Environment Research Council Discovery Science Large Grant.
-      highlights:
-      - Co-Investigator.
-      - 'Project award: £2.516m full economic cost.'
+      - title: Zur Elektrodynamik bewegter Körper
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-06-30
+        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+
+      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-03-18
+        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+
+      - title: Die Grundlage der allgemeinen Relativitätstheorie
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1916-03-20
+        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+
     Skills:
-    - name: Satellite Remote Sensing
-      icon: fa-solid fa-satellite
-      keywords: Atmospheric temperature and wind retrievals, AIRS, MLS, SABER, Aeolus, GNSS radio occultation
-    - name: Atmospheric Dynamics
-      icon: fa-solid fa-wind
-      keywords: Atmospheric gravity waves, stratosphere and mesosphere, QBO, atmospheric circulation, atmosphere–ionosphere
-        coupling
-    - name: Numerical Modelling and Analysis
-      icon: fa-solid fa-chart-line
-      keywords: High-resolution atmospheric simulations, model–observation comparisons, wave spectral analysis,
-        ray tracing
-    - name: Machine Learning
-      icon: fa-solid fa-brain
-      keywords: Convolutional neural networks, detection of gravity waves in satellite data and numerical simulations
+      - name: Physics
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Languages:
+      - name: German
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Physics
+        icon: fa-solid fa-tag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Certificates:
+      - name: Machine Learning
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-location-dot
+
+      - name: Quantum Computing
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-tag
+
+      - name: Quantum Information
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-envelope
+
+    Projects:
+      - name: Quantum Computing
+        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+        highlights:
+          - Quantum Teleportation
+          - Quantum Cryptography
+        start_date: 2018-01-01
+        end_date: 2018-01-01
+
+    References:
+      - name: Professor John Doe
+        icon: fa-solid fa-laptop
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+      - name: Professor Jane Smith
+        icon: fa-solid fa-thumbtack
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
