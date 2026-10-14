@@ -11,7 +11,7 @@ This page provides a brief summary of my academic career. A more detailed versio
 
 ## Academic appointments
 
-- **2023–present — Professor of Atmospheric Remote Sensing**, University of Bath.
+- **2023–date — Professor of Atmospheric Remote Sensing**, University of Bath.
 - **2019–2023 — Senior Research Fellow**, University of Bath.
 - **2017–2019 — Research Fellow**, University of Bath.
 - **2013–2017 — Research Officer**, University of Bath.
@@ -28,14 +28,14 @@ This page provides a brief summary of my academic career. A more detailed versio
 
 ## International scientific leadership
 
-- **2022–present — Co-Leader**, APARC Gravity Waves Activity (formerly SPARC).
-- **2025–present — Science Team Member**, NASA STRIVE mission.
-- **2024–present — Mission Advisory Group Member**, ESA Keystone candidate mission.
+- **2022–date — Co-Leader**, APARC Gravity Waves Activity (formerly SPARC).
+- **2025–date — Science Team Member**, NASA STRIVE mission.
+- **2024–date — Mission Advisory Group Member**, ESA Keystone candidate mission.
 - **2022–2026 — Gravity Wave Section Lead**, APARC Reanalysis/Analysis Intercomparison Project.
 
 ## Policy experience
 
-- **2026-date - Royal Society Policy Advisory Forum**
+- **2026-date — Royal Society Policy Advisory Forum**.
 - **2024–2025 — Royal Society Policy Associate**, Research and Evidence Directorate, UK Foreign, Commonwealth and Development Office (part-time secondment).
 
 ## Awards and recognition
