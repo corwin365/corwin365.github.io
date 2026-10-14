@@ -1,20 +1,27 @@
+
 ---
 layout: page
 permalink: /publications/
 title: publications
-description: A selected list of my papers. For a complete list see my full CV.
+description: Selected papers and full publication record.
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+## Selected publications
 
-<!-- Bibsearch Feature -->
+These ten papers provide an overview of my research, particularly the development of new satellite methods for observing atmospheric gravity waves, their role in atmospheric dynamics, and their representation in numerical models. They are selected to illustrate the development and breadth of my research, as opposed to being (e.g.) my ten most cited or most recent.
+
+<div class="publications">
+{% bibliography --query @*[topten=true] %}
+</div>
+
+## Other publications
+
+The below complete list may be slightly out-of-date as it is updated manually. A (perhaps) more up-to-date list is also available on [Google Scholar](https://scholar.google.co.uk/citations?user=yeABvDEAAAAJ&hl=en).
 
 {% include bib_search.liquid %}
 
 <div class="publications">
-
-{% bibliography %}
-
+{% bibliography --query @*[topten!=true] %}
 </div>
