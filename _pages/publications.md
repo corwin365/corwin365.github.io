@@ -6,6 +6,7 @@ description: Selected papers and full publication record.
 nav: true
 nav_order: 2
 ---
+{% include theme-colours.liquid %}
 
 ## Selected publications
 

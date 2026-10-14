@@ -6,6 +6,7 @@ description: Academic appointments, scientific leadership and education.
 nav: true
 nav_order: 5
 ---
+{% include theme-colours.liquid %}
 
 This page provides a brief summary of my academic career. A more detailed version is available in my [full CV (PDF)](/assets/pdf/cv.pdf).
 
