@@ -23,6 +23,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+{% include theme-colours.liquid %}
+
 
 I am <a href="https://researchportal.bath.ac.uk/en/persons/corwin-wright/">Professor of Atmospheric Remote Sensing at the University of Bath</a>, where I lead research into the dynamics of the Earth's atmosphere, particularly atmospheric gravity waves and their role in weather, climate and the circulation of the middle atmosphere.
 
