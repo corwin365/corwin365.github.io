@@ -24,6 +24,7 @@ This page provides a brief summary of my academic career. A more detailed versio
 - **2017–2026 — Royal Society University Research Fellow**, University of Bath.
 - **2025–2026 — Director of Research**, Department of Electronic and Electrical Engineering, University of Bath.
 - **2022–2026 — Founding Co-Director**, Centre for Climate Adaptation and Environmental Research, University of Bath.
+- **2020–2025 — Research Staff Coordinator**, Department of Electronic and Electrical Engineering, University of Bath.
 
 ## International scientific leadership
 
@@ -34,6 +35,7 @@ This page provides a brief summary of my academic career. A more detailed versio
 
 ## Policy experience
 
+- **2026-date - Royal Society Policy Advisory Forum**
 - **2024–2025 — Royal Society Policy Associate**, Research and Evidence Directorate, UK Foreign, Commonwealth and Development Office (part-time secondment).
 
 ## Awards and recognition
