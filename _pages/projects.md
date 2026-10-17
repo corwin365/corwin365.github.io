@@ -15,18 +15,20 @@ An overview of my funded research projects, past and present, to give a flavour 
 *Making the invisible waves in our atmosphere measurable.*<br />
 <img src="{{ '/assets/img/projects/seeing-the-unseen.png' | relative_url }}"
      alt="Gravity wave generation over a typhoon from a high-resolution weather model"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0 auto;">
+     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
 
      **Funder:** [Leverhulme Trust](https://www.leverhulme.ac.uk/)  
 **Scheme:** [Research Project Grant](https://www.leverhulme.ac.uk/research-project-grants)  
-**Period:** February 2026 – September 2030
-**Investigator:** **Corwin Wright (Project Lead)** (University of Bath)
+**Period:** February 2026 – September 2030  
+**Investigator:** **Corwin Wright** (University of Bath, PI)
 
 Atmospheric gravity waves transport energy and momentum throughout the atmosphere, but individual observing systems can measure only a limited part of their spectrum. Seeing the Unseen combines satellite and ground-based observations with high-resolution atmospheric modelling to overcome these observational limitations and build a more complete, uncertainty-quantified picture of global gravity wave activity. The resulting measurements will help us better understand atmospheric dynamics, assess how gravity waves are represented in numerical models, and investigate whether stratospheric gravity wave activity can provide useful information about tropical cyclone intensification.
 
-<img src="{{ '/assets/img/funders/leverhulme-trust.jpg' | relative_url }}"
-     alt="Leverhulme Trust" width="170">
+<img src="{{ '/assets/img/funders/leverhulme-trust.jpg' | relative_url }}" alt="Leverhulme Trust" width="170">
 
+     
+     
+     
 ---
 
 ## STRAT-NAV
@@ -34,14 +36,14 @@ Atmospheric gravity waves transport energy and momentum throughout the atmospher
 *Using atmospheric gravity waves to keep high-altitude aircraft flying for longer.* <br />
 <img src="{{ '/assets/img/projects/strat-nav.png' | relative_url }}"
      alt="Stylised illustration of the STRAT-NAV project"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0 auto;">
+     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
 
 
 **Funder:** [Advanced Research and Invention Agency (ARIA)](https://www.aria.org.uk/)  
 **Programme:** [Enduring Atmospheric Platforms](https://aria.org.uk/opportunity-spaces/adaptive-machines/enduring-atmospheric-platforms/)  
 **Period:** 2026–2029  
 **Role:** Co-Investigator  
-**Investigators:** **Neil Hindley (PI)** (University of Bath) · Hilary Costello (Limosaero) · Matthew Scutter (SkySight) · Graham Spelman (Limosaero) · Tim Banyard (University of Bath) · Corwin Wright (University of Bath) · Tracy Moffat-Griffin (British Antarctic Survey)
+**Investigators:** **Neil Hindley** (University of Bath, PI) · Hilary Costello (Limosaero) · Matthew Scutter (SkySight) · Graham Spelman (Limosaero) · Tim Banyard (University of Bath) · Corwin Wright (University of Bath) · Tracy Moffat-Griffin (British Antarctic Survey)
 
 
 
@@ -50,6 +52,9 @@ Stratospheric Navigation and Gravity Wave Soaring for Enduring Atmospheric Platf
 
 <img src="{{ '/assets/img/funders/aria.png' | relative_url }}" alt="ARIA" width="170">
 
+
+
+
 ---
 
 ## TEAMx-FLOW
@@ -57,14 +62,14 @@ Stratospheric Navigation and Gravity Wave Soaring for Enduring Atmospheric Platf
 *Understanding how mountains shape atmospheric circulation across scales.*<br />
 <img src="{{ '/assets/img/projects/teamx-flow.png' | relative_url }}"
      alt="Schematic diagram of a FAAM flight with sondes"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0 auto;">
+     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
 
 
 **Funder:** [Natural Environment Research Council (NERC)](https://www.ukri.org/councils/nerc/)  
 **Programme:** [TEAMxUK: Quantifying Atmospheric Processes in Mountainous Regions](https://www.ukri.org/opportunity/teamxuk-quantifying-atmospheric-processes-in-mountainous-regions/)  
 **Period:** November 2024 – April 2028  
 **Role:** Co-Investigator  
-**Investigators:** **Andrew Orr (PI)** (British Antarctic Survey) · Neil Hindley (University of Bath) · Andrew Ross (University of Leeds) · Corwin Wright (University of Bath)  
+**Investigators:** **Andrew Orr** (British Antarctic Survey, PI) · Neil Hindley (University of Bath) · Andrew Ross (University of Leeds) · Corwin Wright (University of Bath)  
 **Collaborating organisation:** Met Office
 
 
