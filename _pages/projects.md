@@ -19,7 +19,7 @@ An overview of my funded research projects, past and present, to give a flavour 
 
 <img src="{{ '/assets/img/projects/seeing-the-unseen.png' | relative_url }}"
      alt="Gravity wave generation over a typhoon from a high-resolution weather model"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/leverhulme-trust.jpg' | relative_url }}"
      alt="Leverhulme Trust"
@@ -42,7 +42,7 @@ Atmospheric gravity waves transport energy and momentum throughout the atmospher
 
 <img src="{{ '/assets/img/projects/strat-nav.png' | relative_url }}"
      alt="Stylised illustration of the STRAT-NAV project"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/aria.png' | relative_url }}"
      alt="ARIA"
@@ -66,7 +66,7 @@ Stratospheric Navigation and Gravity Wave Soaring for Enduring Atmospheric Platf
 
 <img src="{{ '/assets/img/projects/teamx-flow.png' | relative_url }}"
      alt="Schematic diagram of a FAAM flight with sondes"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/ukri-nerc-square-logo.png' | relative_url }}"
      alt="NERC"
@@ -91,7 +91,7 @@ Flow Dynamics, Scale Interactions and Mountain Waves for TEAMx-UK (TEAMx-FLOW) i
 
 <img src="{{ '/assets/img/projects/driive.jpg' | relative_url }}"
      alt="EISCAT-3D radar"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/ukri-nerc-square-logo.png' | relative_url }}"
      alt="NERC"
@@ -115,7 +115,7 @@ Drivers and Impacts of Ionospheric Variability with EISCAT-3D (DRIIVE) investiga
 
 <img src="{{ '/assets/img/projects/gw-impacts.png' | relative_url }}"
      alt="Satellite observations of atmospheric gravity waves"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/royal-society.png' | relative_url }}"
      alt="Royal Society"
@@ -164,7 +164,7 @@ Mesospheric Sub-seasonal to Decadal Predictability (MesoS2D) aimed to understand
 
 <img src="{{ '/assets/img/projects/driive.jpg' | relative_url }}"
      alt="EISCAT radar"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/eiscat.png' | relative_url }}"
      alt="EISCAT"
@@ -188,7 +188,7 @@ Polar mesospheric summer echoes (PMSEs) are strong radar returns from the cold s
 
 <img src="{{ '/assets/img/projects/airglow.png' | relative_url }}"
      alt="Airglow"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/royal-society.png' | relative_url }}"
      alt="Royal Society"
@@ -211,7 +211,7 @@ This project supported the development of an airglow imaging capability for Hall
 
 <img src="{{ '/assets/img/projects/pegasus.png' | relative_url }}"
      alt="Image showing various polar vortex states"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/ukri-nerc-square-logo.png' | relative_url }}"
      alt="NERC"
@@ -235,7 +235,7 @@ Planetary and Gravity Waves as Drivers of Sudden Stratospheric Warmings (PEGASUS
 
 <img src="{{ '/assets/img/projects/qbo.png' | relative_url }}"
      alt="3D image of QBO winds"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/royal-society.png' | relative_url }}"
      alt="Royal Society"
@@ -258,7 +258,7 @@ Satellite Exploration of the Quasi-Biennial Oscillation (SEQUOIA) investigated t
 
 <img src="{{ '/assets/img/projects/noble2024exploring62.png' | relative_url }}"
      alt="Ray-traced gravity wave trajectories through the atmosphere"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/royal-society.png' | relative_url }}"
      alt="Royal Society"
@@ -281,7 +281,7 @@ Measuring and Tracking Atmospheric Disturbances Using Observations and Ray-Traci
 
 <img src="{{ '/assets/img/projects/gw-global-circulation.png' | relative_url }}"
      alt="Global satellite measurements of atmospheric gravity wave momentum flux"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/royal-society.png' | relative_url }}"
      alt="Royal Society"
@@ -304,7 +304,7 @@ My original Royal Society University Research Fellowship focused on understandin
 
 <img src="{{ '/assets/img/projects/dragon-wex.png' | relative_url }}"
      alt="Gravity wave observations over the Drake Passage and Southern Ocean"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/ukri-nerc-square-logo.png' | relative_url }}"
      alt="NERC"
@@ -332,7 +332,7 @@ I have also participated in research projects funded by international partners, 
 
 <img src="{{ '/assets/img/projects/nasa-geos-osse.png' | relative_url }}"
      alt="Comparison of gravity waves in AIRS satellite observations and NASA GEOS simulations"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/nasa.png' | relative_url }}"
      alt="NASA"
@@ -356,7 +356,7 @@ I have also participated in research projects funded by international partners, 
 
 <img src="{{ '/assets/img/projects/mars-gravity-waves.png' | relative_url }}"
      alt="Mars satellite observations showing gravity wave activity"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/nasa.png' | relative_url }}"
      alt="NASA"
