@@ -279,9 +279,9 @@ Measuring and Tracking Atmospheric Disturbances Using Observations and Ray-Traci
 
 *Revealing how small atmospheric waves help drive global circulation.*<br />
 
-<img src="{{ '/assets/img/projects/gw-global-circulation.png' | relative_url }}"
+<!--<img src="{{ '/assets/img/projects/gw-global-circulation.png' | relative_url }}"
      alt="Global satellite measurements of atmospheric gravity wave momentum flux"
-     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">-->
 
 <img src="{{ '/assets/img/funders/royal-society.png' | relative_url }}"
      alt="Royal Society"
@@ -302,9 +302,9 @@ My original Royal Society University Research Fellowship focused on understandin
 
 *Measuring the atmospheric waves responsible for missing momentum over the Southern Ocean.*<br />
 
-<img src="{{ '/assets/img/projects/dragon-wex.png' | relative_url }}"
+<!--<img src="{{ '/assets/img/projects/dragon-wex.png' | relative_url }}"
      alt="Gravity wave observations over the Drake Passage and Southern Ocean"
-     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">-->
 
 <img src="{{ '/assets/img/funders/ukri-nerc-square-logo.png' | relative_url }}"
      alt="NERC"
@@ -330,9 +330,9 @@ I have also participated in research projects funded by international partners, 
 
 *Using satellite observations to test how atmospheric models represent gravity wave momentum transport.*<br />
 
-<img src="{{ '/assets/img/projects/nasa-geos-osse.png' | relative_url }}"
+<!--<img src="{{ '/assets/img/projects/nasa-geos-osse.png' | relative_url }}"
      alt="Comparison of gravity waves in AIRS satellite observations and NASA GEOS simulations"
-     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">-->
 
 <img src="{{ '/assets/img/funders/nasa.png' | relative_url }}"
      alt="NASA"
@@ -354,9 +354,9 @@ I have also participated in research projects funded by international partners, 
 
 *Investigating the waves that shape the atmosphere of another planet.*<br />
 
-<img src="{{ '/assets/img/projects/mars-gravity-waves.png' | relative_url }}"
+<!--<img src="{{ '/assets/img/projects/mars-gravity-waves.png' | relative_url }}"
      alt="Mars satellite observations showing gravity wave activity"
-     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">-->
 
 <img src="{{ '/assets/img/funders/nasa.png' | relative_url }}"
      alt="NASA"
