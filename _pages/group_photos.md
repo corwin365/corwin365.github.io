@@ -15,7 +15,7 @@ description: Group photos of the ee-atmos research group at Bath.
      style="width: 100%; height: auto;">
      
 Back,left-to-right: Adam Hayes, Dominika Hajkova, Lina Lucas, Phoebe Noble, Peter Berthelemy <br />
-Front,left-to-right: Neil Hindley, Corwin Wright <br />
+Front,left-to-right: Juli Jaen, Neil Hindley, Corwin Wright <br />
      
 ## 2023
 
