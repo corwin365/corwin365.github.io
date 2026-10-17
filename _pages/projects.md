@@ -6,36 +6,6 @@ nav: true
 nav_order: 2
 description: Past and present funded research projects
 ---
-
-{% include theme-colours.liquid %}
-
-An overview of my funded research projects, past and present, to give a flavour of the research we do.
-
-## Current and recent projects
-
-### Seeing the Unseen
-
-*Making the invisible waves in our atmosphere measurable.*<br />
-
-<img src="{{ '/assets/img/projects/seeing-the-unseen.png' | relative_url }}"
-     alt="Gravity wave generation over a typhoon from a high-resolution weather model"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
-
-**Funder:** [Leverhulme Trust](https://www.leverhulme.ac.uk/)  
-**Scheme:** [Research Project Grant](https://www.leverhulme.ac.uk/research-project-grBelow is the complete replacement for `_pages/projects.md`, including all 16 entries. I've retained your existing content and layout choices, introduced the section headings, and added the two NASA collaborations from your CV.
-
-The `---` front matter begins on the first line. Project titles now use `###` beneath the main section headings.
-
-<CodeBlock language="markdown" editable>
----
-layout: page
-title: Projects
-permalink: /projects/
-nav: true
-nav_order: 2
-description: Past and present funded research projects
----
-
 {% include theme-colours.liquid %}
 
 An overview of my funded research projects, past and present, to give a flavour of the research we do.
@@ -116,7 +86,7 @@ Flow Dynamics, Scale Interactions and Mountain Waves for TEAMx-UK (TEAMx-FLOW) i
 **Role:** Co-Investigator  
 **Selected investigators:** **Andrew Kavanagh** (British Antarctic Survey, PI) · Corwin Wright (University of Bath) · wider multi-institutional consortium (20 investigators in total)
 
-Drivers and Impacts of Ionospheric Variability with EISCAT-3D (DRIIVE) investigates how the ionosphere responds to forcing from both space and the underlying atmosphere. Using the new EISCAT-3D radar system alongside complementary observations and numerical models, the project examines processes that produce ionospheric variability on small spatial and temporal scales. Our contribution focuses particularly on the role of atmospheric waves in coupling the lower atmosphere to the ionosphere, with implications for understanding space weather and its effects on satellite navigation and communications.
+Drivers and Impacts of Ionospheric Variability with EISCAT-3D (DRIIVE) investigates how the ionosphere responds to forcing from both space and the underlying atmosphere. Using the EISCAT radar system alongside complementary observations and numerical models, the project examines processes that produce ionospheric variability on small spatial and temporal scales. Our contribution focuses particularly on the role of atmospheric waves in coupling the lower atmosphere to the ionosphere, with implications for understanding space weather and its effects on satellite navigation and communications.
 
 <img src="{{ '/assets/img/funders/ukri-nerc-square-logo.png' | relative_url }}" alt="NERC" width="170">
 
@@ -135,7 +105,7 @@ Drivers and Impacts of Ionospheric Variability with EISCAT-3D (DRIIVE) investiga
 **Period:** 2022–2026  
 **Investigator:** **Corwin Wright** (University of Bath, PI)
 
-This project continued my Royal Society University Research Fellowship, investigating how atmospheric gravity waves influence circulation and variability over timescales ranging from individual weather events to long-term climate variations. Building on advances in satellite measurement and three-dimensional wave analysis, the research explored the global distribution and impacts of gravity waves, their interactions with larger-scale atmospheric processes, and their representation in numerical models. The fellowship supported the development of new observational methods and their application to fundamental questions in atmospheric dynamics.
+This project continued my Royal Society University Research Fellowship (see below), investigating how atmospheric gravity waves influence circulation and variability over timescales ranging from individual weather events to long-term climate variations. Building on advances in satellite measurement and three-dimensional wave analysis, the research explored the global distribution and impacts of gravity waves, their interactions with larger-scale atmospheric processes, and their representation in numerical models. The fellowship supported the development of new observational methods and their application to fundamental questions in atmospheric dynamics.
 
 <img src="{{ '/assets/img/funders/royal-society.png' | relative_url }}" alt="Royal Society" width="170">
 
@@ -146,7 +116,7 @@ This project continued my Royal Society University Research Fellowship, investig
 *Improving our ability to predict the least-understood layer of the atmosphere.*<br />
 
 <img src="{{ '/assets/img/projects/mesos2d.png' | relative_url }}"
-     alt="Mesospheric winds, waves or radar observations"
+     alt="MesoS2D logo"
      style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
 
 **Funder:** [Natural Environment Research Council (NERC)](https://www.ukri.org/councils/nerc/)  
@@ -155,7 +125,7 @@ This project continued my Royal Society University Research Fellowship, investig
 **Role:** Co-Investigator  
 **Investigators:** **Tracy Moffat-Griffin** (British Antarctic Survey, PI) · Andrew Kavanagh (British Antarctic Survey) · Daniel Marsh (University of Leeds) · Corwin Wright (University of Bath)
 
-Mesospheric Sub-seasonal to Decadal Predictability (MesoS2D) aims to understand the processes controlling variability in the mesosphere, approximately 50–95 km above the Earth's surface. Combining satellite observations, ground-based radar measurements and whole-atmosphere numerical modelling, the project investigates how gravity waves, atmospheric tides and space weather influence this poorly understood region. By identifying the physical drivers of variability from weeks to decades, it seeks to improve our ability to predict mesospheric conditions and understand the coupling between the lower atmosphere and near-Earth space environment.
+Mesospheric Sub-seasonal to Decadal Predictability (MesoS2D) aimed to understand the processes controlling variability in the mesosphere, approximately 50–95 km above the Earth's surface. Combining satellite observations, ground-based radar measurements and whole-atmosphere numerical modelling, the project investigated how gravity waves, atmospheric tides and space weather influence this poorly understood region. By identifying the physical drivers of variability from weeks to decades, it sought to improve our ability to predict mesospheric conditions and understand the coupling between the lower atmosphere and near-Earth space environment.
 
 <img src="{{ '/assets/img/funders/ukri-nerc-square-logo.png' | relative_url }}" alt="NERC" width="170">
 
@@ -167,8 +137,8 @@ Mesospheric Sub-seasonal to Decadal Predictability (MesoS2D) aims to understand 
 
 *Probing the polar summer mesosphere using powerful atmospheric radars.*<br />
 
-<img src="{{ '/assets/img/projects/pmse.png' | relative_url }}"
-     alt="EISCAT radar observations of polar mesospheric summer echoes"
+<img src="{{ '/assets/img/projects/driive.png' | relative_url }}"
+     alt="EISCAT radar"
      style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
 
 **Instrument:** [European Incoherent Scatter (EISCAT) radar facilities](https://eiscat.se/)  
