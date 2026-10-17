@@ -4,7 +4,7 @@ title: Group
 permalink: /group/
 nav: true
 nav_order: 3
-description: Group photos of the ee-atmos research group at Bath.
+description: Group photos of the ee-atmos research group (and some regular visitors) at Bath.
 ---
 {% include theme-colours.liquid %}
 
