@@ -140,7 +140,7 @@ This project continued my Royal Society University Research Fellowship (see belo
 
 <img src="{{ '/assets/img/projects/mesos2d.png' | relative_url }}"
      alt="MesoS2D logo"
-     style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
+     style="width: 100%; max-width: 350px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/ukri-nerc-square-logo.png' | relative_url }}"
      alt="NERC"
@@ -233,8 +233,8 @@ Planetary and Gravity Waves as Drivers of Sudden Stratospheric Warmings (PEGASUS
 
 *Understanding the atmospheric waves that drive the tropical stratosphere's changing winds.*<br />
 
-<img src="{{ '/assets/img/projects/sequoia.png' | relative_url }}"
-     alt="Quasi-biennial oscillation observations or tropical stratospheric wind patterns"
+<img src="{{ '/assets/img/projects/qbo.png' | relative_url }}"
+     alt="3D image of QBO winds"
      style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/royal-society.png' | relative_url }}"
@@ -256,7 +256,7 @@ Satellite Exploration of the Quasi-Biennial Oscillation (SEQUOIA) investigated t
 
 *Tracking atmospheric waves from their sources to their eventual impacts.*<br />
 
-<img src="{{ '/assets/img/projects/matador.png' | relative_url }}"
+<img src="{{ '/assets/img/projects/noble2024exploring62.png' | relative_url }}"
      alt="Ray-traced gravity wave trajectories through the atmosphere"
      style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
 
