@@ -9,7 +9,7 @@ description: Past and present funded research projects
 
 {% include theme-colours.liquid %}
 
-An overview of my funded research projects, past and present, to give a flavour of the research we do. This page is still under construction and missing some project images.
+An overview of my funded research projects, past and present, to give a flavour of the research we do. 
 
 ## Current projects
 
