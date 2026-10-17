@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Projects
@@ -107,8 +106,8 @@ Flow Dynamics, Scale Interactions and Mountain Waves for TEAMx-UK (TEAMx-FLOW) i
 
 *Understanding how the atmosphere and space weather drive ionospheric variability.*<br />
 
-<img src="{{ '/assets/img/projects/driive.png' | relative_url }}"
-     alt="EISCAT-3D radar or ionospheric measurements"
+<img src="{{ '/assets/img/projects/driive.jpg' | relative_url }}"
+     alt="EISCAT-3D radar"
      style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
 
 **Funder:** [Natural Environment Research Council (NERC)](https://www.ukri.org/councils/nerc/)  
