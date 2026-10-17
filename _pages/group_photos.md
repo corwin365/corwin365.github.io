@@ -6,6 +6,7 @@ nav: true
 nav_order: 3
 description: Photos of the ee-atmos research group.
 ---
+{% include theme-colours.liquid %}
 
 ## ee-atmos Research Group Photos
 
