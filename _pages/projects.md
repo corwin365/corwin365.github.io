@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Projects
@@ -347,7 +346,7 @@ I have also participated in research projects funded by international partners, 
 
 <div style="clear: both;"></div>
 
-*Directly Constraining Gravity Wave Drag Parameterizations in GEOS with AIRS Observations Using OSSE Methods* investigates how satellite measurements can be used to evaluate the representation of gravity waves in NASA's GEOS atmospheric model. Observing System Simulation Experiments (OSSEs) reproduce the effects of satellite measurement characteristics on simulated atmospheric fields, allowing meaningful comparisons between models and observations. This approach helps identify differences between simulated and observed gravity wave activity, providing constraints relevant to the development and evaluation of gravity wave parameterisations.
+*Directly Constraining Gravity Wave Drag Parameterizations in GEOS with AIRS Observations Using OSSE Methods* investigated how satellite measurements can be used to evaluate the representation of gravity waves in NASA's GEOS atmospheric model. Observing System Simulation Experiments (OSSEs) reproduced the effects of satellite measurement characteristics on simulated atmospheric fields, allowing meaningful comparisons between models and observations. This approach aimed to help identify differences between simulated and observed gravity wave activity, providing constraints relevant to the development and evaluation of gravity wave parameterisations.
 
 ---
 
@@ -393,4 +392,4 @@ I have also participated in research projects funded by international partners, 
 
 <div style="clear: both;"></div>
 
-This fellowship was awarded in open competition in 2017 but declined because it could not be held alongside the Royal Society University Research Fellowship awarded in the same year. The proposed research focused on developing methods to observe atmospheric waves in three dimensions and study their propagation and effects from the lower atmosphere to near-Earth space. The work was not undertaken under this NERC award.
+This fellowship was awarded in open competition in 2017 but declined because it could not be held alongside the Royal Society University Research Fellowship awarded in the same year. The proposed research focused on developing methods to observe atmospheric waves in three dimensions and study their propagation and effects from the lower atmosphere to near-Earth space.
