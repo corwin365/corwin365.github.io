@@ -186,8 +186,8 @@ Polar mesospheric summer echoes (PMSEs) are strong radar returns from the cold s
 
 *Observing atmospheric waves above one of the world's most remote research stations.*<br />
 
-<img src="{{ '/assets/img/projects/halley-airglow.png' | relative_url }}"
-     alt="Airglow observations or an all-sky camera at Halley Research Station"
+<img src="{{ '/assets/img/projects/airglow.png' | relative_url }}"
+     alt="Airglow"
      style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/royal-society.png' | relative_url }}"
@@ -210,7 +210,7 @@ This project supported the development of an airglow imaging capability for Hall
 *Investigating the atmospheric waves responsible for dramatic disruptions of the polar vortex.*<br />
 
 <img src="{{ '/assets/img/projects/pegasus.png' | relative_url }}"
-     alt="Observations of a sudden stratospheric warming or polar vortex disruption"
+     alt="Image showing various polar vortex states"
      style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/ukri-nerc-square-logo.png' | relative_url }}"
