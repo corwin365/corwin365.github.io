@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 description: Academic appointments, scientific leadership and education.
 nav: true
-nav_order: 5
+nav_order: 1
 ---
 {% include theme-colours.liquid %}
 

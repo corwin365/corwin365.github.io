@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Selected papers and full publication record.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 {% include theme-colours.liquid %}
 
