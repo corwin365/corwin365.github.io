@@ -11,7 +11,7 @@ description: Past and present funded research projects
 
 An overview of my funded research projects, past and present, to give a flavour of the research we do. This page is still under construction and missing some project images.
 
-## Current and recent projects
+## Current projects
 
 ### Seeing the Unseen
 
@@ -132,6 +132,8 @@ This project continued my Royal Society University Research Fellowship (see belo
 
 ---
 
+## Earlier projects
+
 ### MesoS2D
 
 *Improving our ability to predict the least-understood layer of the atmosphere.*<br />
@@ -155,8 +157,6 @@ This project continued my Royal Society University Research Fellowship (see belo
 Mesospheric Sub-seasonal to Decadal Predictability (MesoS2D) aimed to understand the processes controlling variability in the mesosphere, approximately 50–95 km above the Earth's surface. Combining satellite observations, ground-based radar measurements and whole-atmosphere numerical modelling, the project investigated how gravity waves, atmospheric tides and space weather influence this poorly understood region. By identifying the physical drivers of variability from weeks to decades, it sought to improve our ability to predict mesospheric conditions and understand the coupling between the lower atmosphere and near-Earth space environment.
 
 ---
-
-## Earlier projects
 
 ### Investigation of PMSEs Along the Geomagnetic Field Direction
 
@@ -221,7 +221,7 @@ This project supported the development of an airglow imaging capability for Hall
 **Scheme:** New Investigator Grant  
 **Period:** 2019–2023  
 **Role:** Principal Investigator  
-**Investigators:** **Corwin Wright** (University of Bath, PI) · Jonathan Esler (University College London) · Dann Mitchell (University of Bristol) · Nicholas Mitchell (University of Bath)
+**Investigators:** **Corwin Wright** (University of Bath, PI) · Gavin Esler (University College London) · Dann Mitchell (University of Bristol) · Nicholas Mitchell (University of Bath)
 
 <div style="clear: both;"></div>
 
