@@ -13,17 +13,17 @@ An overview of my funded research projects, past and present, to give a flavour 
 ## Seeing the Unseen
 
 *Making the invisible waves in our atmosphere measurable.*<br />
+
 <img src="{{ '/assets/img/projects/seeing-the-unseen.png' | relative_url }}"
      alt="Gravity wave generation over a typhoon from a high-resolution weather model"
      style="width: 100%; max-width: 550px; height: auto; display: block; margin: 0;">
 
-     **Funder:** [Leverhulme Trust](https://www.leverhulme.ac.uk/)  
+**Funder:** [Leverhulme Trust](https://www.leverhulme.ac.uk/)  
 **Scheme:** [Research Project Grant](https://www.leverhulme.ac.uk/research-project-grants)  
 **Period:** February 2026 – September 2030  
 **Investigator:** **Corwin Wright** (University of Bath, PI)
 
-Atmospheric gravity waves transport energy and momentum throughout the atmosphere, but individual observing systems can measure only a limited part of their spectrum. Seeing the Unseen combines satellite and ground-based observations with high-resolution atmospheric modelling to overcome these observational limitations and build a more complete, uncertainty-quantified picture of global gravity wave activity. The resulting measurements will help us better understand atmospheric dynamics, assess how gravity waves are represented in numerical models, and investigate whether stratospheric gravity wave activity can provide useful information about tropical cyclone intensification.
-
+Atmospheric gravity waves transport energy and momentum throughout the atmosphere, but individual observing systems can measure only a limited part of their spectrum. Seeing the Unseen combines satellite and ground-based observations with high-resolution atmospheric modelling to overcome these observational limitations and build a more complete, uncertainty-quantified picture of global gravity wave activity. The resulting measurements will help us better understand atmospheric dynamics, assess how gravity waves are represented in numerical models, and investigate whether stratospheric gravity wave activity can provide useful information about tropical cyclone intensification.< br />
 <img src="{{ '/assets/img/funders/leverhulme-trust.jpg' | relative_url }}" alt="Leverhulme Trust" width="170">
 
      
@@ -47,9 +47,7 @@ Atmospheric gravity waves transport energy and momentum throughout the atmospher
 
 
 
-Stratospheric Navigation and Gravity Wave Soaring for Enduring Atmospheric Platforms (STRAT-NAV) aims to help high-altitude aircraft exploit atmospheric gravity waves to extend their flight endurance. By combining ultra-high-resolution atmospheric modelling, observations and intelligent flight-path optimisation, the project will develop forecasts of wave activity that allow aircraft to gain energy from naturally occurring upward air motions. This could substantially reduce the energy requirements of high-altitude platforms, particularly during winter when solar power is limited, supporting longer-duration operations for communications and atmospheric monitoring.
-
-
+Stratospheric Navigation and Gravity Wave Soaring for Enduring Atmospheric Platforms (STRAT-NAV) aims to help high-altitude aircraft exploit atmospheric gravity waves to extend their flight endurance. By combining ultra-high-resolution atmospheric modelling, observations and intelligent flight-path optimisation, the project will develop forecasts of wave activity that allow aircraft to gain energy from naturally occurring upward air motions. This could substantially reduce the energy requirements of high-altitude platforms, particularly during winter when solar power is limited, supporting longer-duration operations for communications and atmospheric monitoring.< br />
 <img src="{{ '/assets/img/funders/aria.png' | relative_url }}" alt="ARIA" width="170">
 
 
@@ -74,7 +72,6 @@ Stratospheric Navigation and Gravity Wave Soaring for Enduring Atmospheric Platf
 
 
 
-Flow Dynamics, Scale Interactions and Mountain Waves for TEAMx-UK (TEAMx-FLOW) investigates how mountainous terrain affects atmospheric circulation through gravity waves, flow blocking and other drag processes. Using observations from the international TEAMx field campaign in the Alps alongside numerical simulations, the project examines how orographic drag is partitioned between resolved and parameterised processes, and how changing wind direction with altitude influences gravity wave propagation and breaking. The results will support improved representation of mountainous terrain in weather and climate models, particularly the Met Office's next-generation modelling system.
-
+Flow Dynamics, Scale Interactions and Mountain Waves for TEAMx-UK (TEAMx-FLOW) investigates how mountainous terrain affects atmospheric circulation through gravity waves, flow blocking and other drag processes. Using observations from the international TEAMx field campaign in the Alps alongside numerical simulations, the project examines how orographic drag is partitioned between resolved and parameterised processes, and how changing wind direction with altitude influences gravity wave propagation and breaking. The results will support improved representation of mountainous terrain in weather and climate models, particularly the Met Office's next-generation modelling system.< br />
 <img src="{{ '/assets/img/funders/ukri-nerc-square-logo.png' | relative_url }}" alt="NERC" width="170">
 
