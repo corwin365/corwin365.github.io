@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <b>Professor of Atmospheric Remote Sensing, University of Bath</b>
 
