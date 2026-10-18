@@ -4,12 +4,10 @@ title: Projects
 permalink: /projects/
 nav: true
 nav_order: 2
-description: Past and present funded research projects
+description: An overview of my funded research projects, past and present, to give a flavour of the research we do.
 ---
 
 {% include theme-colours.liquid %}
-
-An overview of my funded research projects, past and present, to give a flavour of the research we do. 
 
 ## Current projects
 
@@ -279,9 +277,9 @@ Measuring and Tracking Atmospheric Disturbances Using Observations and Ray-Traci
 
 *Revealing how small atmospheric waves help drive global circulation.*<br />
 
-<!--<img src="{{ '/assets/img/projects/gw-global-circulation.png' | relative_url }}"
-     alt="Global satellite measurements of atmospheric gravity wave momentum flux"
-     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">-->
+<img src="{{ '/assets/img/projects/nature.png' | relative_url }}"
+     alt="Hunga Tonga lamb waves imaged by GOES"
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/royal-society.png' | relative_url }}"
      alt="Royal Society"
@@ -302,9 +300,9 @@ My original Royal Society University Research Fellowship focused on understandin
 
 *Measuring the atmospheric waves responsible for missing momentum over the Southern Ocean.*<br />
 
-<!--<img src="{{ '/assets/img/projects/dragon-wex.png' | relative_url }}"
-     alt="Gravity wave observations over the Drake Passage and Southern Ocean"
-     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">-->
+<img src="{{ '/assets/img/projects/hindley2020climatology.png' | relative_url }}"
+     alt="Gravity wave climatology from Hindley et al 2020"
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
 
 <img src="{{ '/assets/img/funders/ukri-nerc-square-logo.png' | relative_url }}"
      alt="NERC"
@@ -374,7 +372,7 @@ I have also participated in research projects funded by international partners, 
 
 ---
 
-## Other fellowship awards
+## Declined awards
 
 ### Atmospheric Waves in 3D, from the Surface to the Edge of Space
 
