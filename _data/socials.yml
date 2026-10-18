@@ -5,7 +5,7 @@ email: c.wright@bath.ac.uk # your email address
 scholar_userid: yeABvDEAAAA # your Google Scholar ID
 github_username: corwin365
 linkedin_username: corwin-wright
-bluesky_url: corwinwright.bsky.social
+bluesky_url: https://bsky.app/profile/corwinwright.bsky.social
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://raw.githubusercontent.com/corwin365/corwin365.github.io/refs/heads/main/assets/img/bath-uni-logo.jpg # can be png, svg, jpg
   title: University of Bath Pure
