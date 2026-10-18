@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Professor of Atmospheric Remote Sensing, University of Bath</b>
+subtitle: <b>Professor of Atmospheric Remote Sensing, University of Bath</b><br />Royal Society University Reseacrh Fellow
 
 profile:
   align: right
