@@ -18,3 +18,27 @@
     font-weight: 700 !important;
   }
 </style>
+
+
+
+/* Highlight the key findings in publication notes */
+
+.publications .periodical + .periodical {
+  margin: 0.4rem 0 0.5rem;
+  padding: 0.3rem 0 0.3rem 0.8rem;
+  border-left: 3px solid var(--global-theme-color);
+  font-size: 0.94em;
+  line-height: 1.5;
+  color: var(--global-text-color);
+}
+
+.publications .periodical + .periodical::before {
+  content: "Key finding";
+  display: block;
+  margin-bottom: 0.2rem;
+  font-size: 0.78em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--global-theme-color);
+}
