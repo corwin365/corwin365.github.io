@@ -22,6 +22,7 @@ This page provides a brief summary of my academic career. A more detailed versio
 
 ## Fellowships and university leadership
 
+- **2026–date — UKI-Turing AI Pioneer Interdisciplinary Fellow**, University of Bath.
 - **2017–2026 — Royal Society University Research Fellow**, University of Bath.
 - **2025–2026 — Director of Research**, Department of Electronic and Electrical Engineering, University of Bath.
 - **2022–2026 — Founding Co-Director**, Centre for Climate Adaptation and Environmental Research, University of Bath.

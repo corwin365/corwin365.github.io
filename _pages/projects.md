@@ -11,6 +11,29 @@ description: An overview of my funded research projects, past and present, to gi
 
 ## Current projects
 
+### A Gravity Wave Latent Inference network For climaTe (GW-LIFT)
+
+*Using AI to turn incomplete atmospheric observations into better weather and climate models.*<br />
+
+<img src="{{ '/assets/img/projects/gwlift.jpg' | relative_url }}"
+     alt="A hyperreal AI 3D gravity wave, with some sketch graphs next to it"
+     style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0;">
+
+<img src="{{ '/assets/img/funders/ukri.png' | relative_url }}"
+     alt="Leverhulme Trust"
+     style="float: right; max-width: 110px; max-height: 125px; width: auto; height: auto; margin: 0 0 10px 20px;">
+     
+**Funder:** [UK Research and Innovation](https://www.ukri.org/)  
+**Scheme:** [Turing AI Pioneer Interdisciplinary Fellowship](https://www.ukri.org/opportunity/turing-ai-pioneer-interdisciplinary-fellowships-outline-applications/)  
+**Period:** October 2026 – September 2029  
+**Investigator:** **Corwin Wright** (University of Bath, Fellow/PI)
+
+<div style="clear: both;"></div>
+
+Weather and climate models cannot directly resolve most atmospheric gravity waves, so their effects must be approximated using simplified *parameterisations*. These schemes are often tuned to reproduce the large-scale atmospheric circulation rather than constrained by direct measurements, introducing substantial uncertainties and potentially concealing errors elsewhere in the models. GW-LIFT aims to address this problem using artificial intelligence to develop a more physically grounded approach. Machine learning and latent inference techniques will be used to extract information from imperfect atmospheric observations, reconstruct the underlying wave momentum transport, and quantify the associated uncertainties. These results will then be used to develop new, scale-aware gravity wave parameterisations, which will be implemented and tested in the Whole Atmosphere Community Climate Model (WACCM). Beyond gravity waves, the project aims to demonstrate how physically constrained AI can help improve the representation of poorly observed processes across atmospheric and environmental science.
+
+---
+
 ### Seeing the Unseen
 
 *Making the invisible waves in our atmosphere measurable.*<br />
