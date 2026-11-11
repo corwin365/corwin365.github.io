@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Professor of Atmospheric Remote Sensing, University of Bath<br />Royal Society University Research Fellow<br />UKRI-Turing Interdisciplinary Pioneer Fellow</b>
+subtitle: <b>Professor of Atmospheric Remote Sensing, University of Bath<br />UKRI Turing AI Pioneer Interdisciplinary Fellow<br />Royal Society University Research Fellow</b>
 
 profile:
   align: right
