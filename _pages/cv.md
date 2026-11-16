@@ -50,3 +50,4 @@ This page provides a brief summary of my academic career. A more detailed versio
 - **2006–2010 — DPhil in Atmospheric Physics**, University of Oxford.
 - **2005–2006 — MSc in Photonics and Optoelectronic Devices**, University of St Andrews and Heriot-Watt University.
 - **2001–2005 — MSci in Physics**, Durham University.
+ 
